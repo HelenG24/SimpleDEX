@@ -1,5 +1,3 @@
-# SimpleDEX
-
 # SimpleDEX - Exchange Descentralizado en Solidity
 
 Este proyecto implementa un exchange descentralizado simple (`SimpleDEX`) para intercambiar dos tokens ERC-20 (`TokenA` y `TokenB`) usando el modelo de producto constante (x * y = k), desplegado en la red **Scroll Sepolia**.
